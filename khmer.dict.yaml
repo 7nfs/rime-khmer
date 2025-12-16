@@ -1,0 +1,9 @@
+# khmer.dict
+# encoding: utf-8
+
+---
+name: khmer
+version: 'v0.1-20251217'
+
+import_tables:
+  - khmer.script
