@@ -1,0 +1,80 @@
+# encoding: utf-8
+# vim: set noet:
+---
+name: khmer.script
+version: "v0.1-20251217"
+sort: by_weight
+---
+#Consonant
+ក	ka
+ខ	kha
+គ	ko
+ឃ	kho
+ង	ngo
+ច	cha
+ឆ	chha
+ជ		cho
+ឈ	chho
+ញ	nho
+ដ		da
+ឋ		tha
+ឌ		do
+ឍ	tho
+ណ	na
+ត	ta
+ថ		tha
+ទ		to
+ធ	tho
+ន	no
+ប	ba
+ផ		pha
+ព		po
+ភ	pho
+ម	mo
+យ	yo
+រr	o
+ល	lo
+វv	o
+ឝ	śa
+ឞ	ṣa
+ស	sa
+ហ	ha
+ឡ	la
+អ	'a
+
+#Subscript
+្ក		ka
+្ខ		kha
+្គ		ga
+្ឃ	gha
+្ង		nga
+្ច		ca
+្ឆ		chha	
+្ជ		ja
+្ឈ	chho	
+្ញ		ña
+្ដ		ṭa
+្ឋ		ṭha
+្ឌ		ḍa
+្ឍ	ḍha
+្ណ		ṇa
+្ត		ta
+្ថ		tha
+្ទ		da
+្ធ		dha
+្ន		na
+្ប	pa
+្ផ		pha
+្ព		ba
+្ភ		bha
+្ម		ma
+្យ	ya
+្រ	ra
+្ល		la
+្វ		va
+្ឝ		śa
+្ឞ		ṣa
+្ស	sa
+្ហ		ha
+្ឡ		la
+្អ		ʹa
