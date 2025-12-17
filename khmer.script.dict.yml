@@ -5,7 +5,7 @@ name: khmer.script
 version: "v0.1-20251217"
 sort: by_weight
 ---
-#Consonant
+# Consonant
 ក	ka
 ខ	kha
 គ	ko
@@ -78,3 +78,37 @@ sort: by_weight
 ្ហ		ha
 ្ឡ		la
 ្អ		ʹa
+# Supplementary consonants
+# Vowels
+ា	ea
+ិ	e
+ី	ei
+ឹ	ue
+ឺ	eu
+ុ	u
+ូ	o
+ួ	ua
+ើ	er
+ឿ	eu
+ៀ	ia
+េ	e
+ែ	ea
+ៃ	ai
+ោ	aô
+ៅ	au
+# Independent Vowels
+ឥ	ei
+ឦ		ei
+ឧ		o
+ឨ		ouk
+ឩ		ou
+ឪ		au
+ឫ		reu
+ឬ		rueu
+ឭ		leu
+ឮ		lueu
+ឯ	ea
+ឰ		ai
+ឱ		ao
+ឳ		au
+# Diacritics
